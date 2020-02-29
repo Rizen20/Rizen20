@@ -3,7 +3,7 @@
 class HelloWorld 
 { 
     // Your program begins with a call to main(). 
-    // Prints "Hello, World - Rizen" to the terminal window. 
+    // Prints "Hello, World - Rizen again" to the terminal window. 
     public static void main(String args[]) 
     { 
         System.out.println("Hello, World"); 
